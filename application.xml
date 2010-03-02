@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/1.1">
+	<id>com.brainfloss.small</id>
+	<name>Small</name>
+	<version>1.0.7</version>
+	<filename>Small</filename>
+	<description>
+		<text xml:lang="it">Ridimensiona e converte facilmente immagini e cartelle</text>
+		<text xml:lang="en">Easily resize and convert images and folders</text>
+		<text xml:lang="es">Small redimensiona y convierte fácilmente imágenes y carpetas</text>
+		<text xml:lang="fr">Small redimensionne et convert facilement images et dossiers</text>
+	</description>
+  	<copyright>© 2008 Brainfloss</copyright>
+	<installFolder>Brainfloss</installFolder>
+	<programMenuFolder>Brainfloss</programMenuFolder>
+
+	<initialWindow>   	
+		<title>Small</title>
+		<content>main.html</content>
+		<systemChrome>none</systemChrome>
+		<transparent>true</transparent>
+    	<visible>false</visible>
+		<width>288</width>
+		<height>416</height>
+	</initialWindow>
+
+	<icon>
+	  	<image16x16>resources/icons/16.png</image16x16>
+		<image32x32>resources/icons/32.png</image32x32>
+		<image48x48>resources/icons/48.png</image48x48>
+		<image128x128>resources/icons/128.png</image128x128>
+	</icon>
+
+</application>

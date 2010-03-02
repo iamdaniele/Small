@@ -1,0 +1,5 @@
+Small is a barebone yet slick application to easily convert images or folders that contain images. It resizes Jpegs into smaller Jpegs; you can specify an output path and that's pretty much it for the moment.
+
+Small resizes to a maxium height or width of 640 pixels, maintaining the correct aspect ratio.
+
+This program is free software and it is released under the LGPL license.
